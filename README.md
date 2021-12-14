@@ -1,4 +1,6 @@
-Thanks to @GameFuzzy for the help.
+Thanks to [@GameFuzzy](https://github.com/GameFuzzy) for the help.
+
+[Check demo here](https://thegeeking.github.io/spicetify-documentation/modules/Spicetify.html)
 
 Documentation is in build folder, download it and open index.html.
 
